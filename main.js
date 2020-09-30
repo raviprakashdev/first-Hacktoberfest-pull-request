@@ -9,3 +9,6 @@ button.addEventListener("click",function(){
 	filled=!filled;
 });
 
+
+var date = new Date();
+document.getElementById('date').innerHTML = date;
