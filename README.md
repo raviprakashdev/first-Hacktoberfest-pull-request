@@ -14,7 +14,7 @@
 ## Step 6: Commit your changes by using [git commit -m "massage"]
 ## Step 7: Now Push your all work on github account by using [git push origin branch-name] or for master branch [git push origin master] 
 
-Happy coding fellas!!
+## Happy coding fellas!!
 
 Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first step to development and open source. Get the confidence you require!!
 
